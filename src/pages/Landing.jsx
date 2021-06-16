@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 import { Typography, Paper, Grid } from '@material-ui/core/'
 
 function Landing () {
